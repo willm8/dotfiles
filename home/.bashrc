@@ -19,3 +19,10 @@ fi
 
 source "$HOME/.homesick/repos/homeshick/homeshick.sh"
 source "$HOME/.homesick/repos/homeshick/completions/homeshick-completion.bash"
+
+alias ll='ls -lasp'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../../'
+
+
